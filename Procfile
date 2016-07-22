@@ -1,1 +1,1 @@
-web: go_service_broker --cloud SoftLayer
+web: go_service_broker --cloud AWS
